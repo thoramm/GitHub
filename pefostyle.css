@@ -1,0 +1,51 @@
+body {
+   background-color: rgb(35, 34, 34);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: red;
+}
+
+h1 {
+   color: lightcoral;
+   text-align: left;
+   font-size: 60px;
+   font-family: arial black;
+}
+
+
+
+h2 {
+   color: lightcoral;
+   text-align: left;
+   font-size: 40px;
+   font-family: arial black;
+}
+
+/* unvisited link */
+a:link {
+  color: #D0D0D0;
+}
+
+/* visited link */
+a:visited {
+  color: #D0D0D0;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightblue;
+}
+
+/* selected link */
+a:active {
+  color: #D0D0D0;
+}
+
+
+
+tr:nth-child(odd) {background-color: #202020;}
+
+th {
+   background-color: #909090;
+   color:black;
+}
+ 
